@@ -47,10 +47,9 @@ Here are some ideas to get you started:
 - **2021년 컴퓨터 중앙동아리 HUHS 회장**
 - 2021년 HUHS(한양대) X 디사이퍼(서울대) X UXIM(연세대) 연합 프로젝트 클라이언트 부문 멘토 역할
 - **2020년 컴퓨터 중앙동아리 HUHS 부회장**
-- 2020년 컴퓨터소프트웨어학부 과동아리 EOS에서 앱 제작 프로젝트 진행
+- 2020년 컴퓨터소프트웨어학부 과동아리 EOS에서 앱 제작 프로젝트 진행<br>
 (해당 프로젝트에서 백엔드 서버 개발을 담당했습니다.)
-- 2020년 HUHS에서 온라인 안드로이드 초보반 스터디 진행
-(링크 : [https://www.youtube.com/playlist?list=PLr6MyFVF0b_DrD8rbJALFBus4XNhwnMNo](https://www.youtube.com/playlist?list=PLr6MyFVF0b_DrD8rbJALFBus4XNhwnMNo))
+- 2020년 HUHS에서 온라인 안드로이드 초보반 스터디 진행<br>
 (해당 스터디를 진행하기 위해서 Django로 간단한 API 서버를 제작했었습니다.)
 - 2019년, 2018년 HUHS에서 오프라인 안드로이드 스터디 진행
 - 2019년 HUHS 기술부로 활동하면서 기술 세미나 개최
