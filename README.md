@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   - 빅데이터 기반의 모빌리티 광고 플랫폼 **['캐시카플러스'](https://www.cashcarplus.com/)** 안드로이드 앱 개발 및 퍼블리싱.
 - 안드로이드/Flutter 외주 개발자(2020.01.01 ~ 2020.12.31)
 - **스타트업 'Individual Car' CTO 겸 개발자 ( 2016.05.01 ~ 2019.08.01 ).**
-  - 자동차 튜닝 관련 플랫폼 서비스 **'Indicar Tuning'** 개발.
+  - 자동차 튜닝 관련 플랫폼 서비스 **['Indicar Tuning'](https://www.youtube.com/watch?v=g9795DsJ4Js)** 개발.
 - 그 외 다수의 외주 개발 경험 있음.
 
 ### 🏆 Prize
