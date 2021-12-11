@@ -14,18 +14,19 @@ Here are some ideas to get you started:
 -->
 [![Candykick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Candykick)](https://github.com/anuraghazra/github-readme-stats)
 
-## 안드로이드/하이브리드 앱 개발자, 프론트엔드 엔지니어
+## 안드로이드/하이브리드 앱 개발자, 프론트엔드 엔지니어, 주니어 백엔드 개발자
 
 안드로이드 앱 개발을 주로 하는 개발자 우수몽입니다. **코틀린(+자바),** **flutter** 둘 다 사용 가능합니다.
 
 ### 👨‍💻 Career
 
-- 스타트업 'Individual Car' CTO 겸 개발자 ( 2016.05.01 ~ 2019.08.01 ).
-자동차 튜닝 관련 플랫폼 서비스 **'Indicar Tuning'** 개발.
-- 스타트업 'Ourstock' 안드로이드/하이브리드 앱 개발자 ( 2021.01.01 ~ ).
-- 빅데이터 기반의 모빌리티 광고 플랫폼 **'캐시카플러스'** 안드로이드 앱 개발 및 퍼블리싱.
-- 유튜브 지분 거래 플랫폼 **'OurTube(가칭)'** 개발 중.
-- 점심시간 매칭 플랫폼 **'런치메이트(가칭)'** 개발 중.
+- **스타트업 'Ourstock' 개발팀장 (2021.11.30 ~ )**, 안드로이드/하이브리드 앱 개발자 ( 2021.01.01 ~ 2021.11.30 ).
+  - 유튜브 지분 거래 플랫폼 **['OurTube'](https://www.ourtube.co.kr/#/home)** 개발 중.
+  - 점심시간 매칭 플랫폼 **'TimeSeller'** 개발 중.
+  - 빅데이터 기반의 모빌리티 광고 플랫폼 **['캐시카플러스'](https://www.cashcarplus.com/)** 안드로이드 앱 개발 및 퍼블리싱.
+- 안드로이드/Flutter 외주 개발자(2020.01.01 ~ 2020.12.31)
+- **스타트업 'Individual Car' CTO 겸 개발자 ( 2016.05.01 ~ 2019.08.01 ).**
+  - 자동차 튜닝 관련 플랫폼 서비스 **'Indicar Tuning'** 개발.
 - 그 외 다수의 외주 개발 경험 있음.
 
 ### 🏆 Prize
@@ -79,6 +80,8 @@ Here are some ideas to get you started:
 - Java(안드로이드)
 - Kotlin(안드로이드)
 - Flask / Django
+- MySQL
+- Nest.js / TypeORM
 - Swift(iOS)
 - Html5 / JavaScript / CSS
 - git
