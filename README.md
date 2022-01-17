@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     [앱 : Flutter / 서버 : Nest.js, MySQL, TypeORM / 어드민 : React]
   - 점심시간 매칭 플랫폼 **'TimeSeller'** 개발팀장.<br>
     프로젝트 관리 및 앱 개발을 맡고 있습니다. [Flutter]
-  - 빅데이터 기반의 모빌리티 광고 플랫폼 **['캐시카플러스'](https://www.cashcarplus.com/)** 안드로이드 앱 개발 및 퍼블리싱. [Kotlin, Android]
+  - 빅데이터 기반의 모빌리티 광고 플랫폼 **['캐시카플러스'](https://www.cashcarplus.com/)** 안드로이드 앱 개발 및 퍼블리싱, 현재 . [Kotlin, Android]
 - 안드로이드/Flutter 외주 개발자(2020.01.01 ~ 2020.12.31)
   - 콘텐츠 크리에이터의 공간 플랫폼 ['Billyo의 파트너스 앱'](https://play.google.com/store/apps/details?id=com.billyo.billyo_partners&hl=ko&gl=US) 개발 [Flutter]
 - **스타트업 'Individual Car' CTO 겸 개발자 ( 2016.05.01 ~ 2019.08.01 ).**
