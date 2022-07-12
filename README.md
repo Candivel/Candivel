@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 
 ## 안드로이드/하이브리드 앱 개발자, 프론트엔드 엔지니어, 주니어 백엔드 개발자
 
-안드로이드 앱 개발을 주로 하는 개발자 우수몽입니다.
+Flutter 앱 개발자 우수몽입니다.
 
-프론트엔드로는 **코틀린(+자바),** **flutter** 둘 다 사용하고 있으며,
+프론트엔드로는 **Flutter,** **코틀린(+자바)** 을 주로 사용하고,
 
-백엔드로는 **Nest.js(with TypeORM)** 와 **MySQL**을 공부하고 있습니다.
+백엔드로는 **Nest.js(with TypeORM)** 와 **MySQL**을 주로 사용합니다.
 
-(⚡ Fun fact: 자바는 거의 버렸습니다. 코틀린 좋아요)
+(⚡ Fun fact: Dart는 별로지만 Flutter는 잘 만들었다고 생각합니다.)
 
 
 ### 👨‍💻 Career
 
-- **스타트업 'Ourstock' 개발팀장 (2021.11.30 ~ )**, 안드로이드/하이브리드 앱 개발자 ( 2021.01.01 ~ 2021.11.30 ).
+- **스타트업 ['Ourtube'](https://ourtube.co.kr/#/home) 개발팀장 (2021.11.30 ~ )**, Flutter 앱 개발자 ( 2021.01.01 ~ 2021.11.30 ).
   - 유튜브 지분 거래 플랫폼 **['아워튜브'](https://play.google.com/store/apps/details?id=com.ourstock.ourtube_app)** 개발팀장.<br>
     주로 프로젝트 관리 및 앱 개발, 어드민 페이지 개발을 맡고 있고, 상황에 따라 서버 개발도 도와주고 있습니다.<br>
-    [앱 : Flutter / 서버 : Nest.js, MySQL, TypeORM / 어드민 : React]
+    [앱 : Flutter / 서버 : Nest.js, MySQL, TypeORM / 어드민 : React -> Flutter]
 - 점심시간 매칭 플랫폼 'TimeSeller' 개발팀장.(2020.07.01 ~ 2020.11.30)<br>
   프로젝트 관리 및 앱 개발을 맡았습니다. [Flutter]
 - 빅데이터 기반의 모빌리티 광고 플랫폼 **['캐시카플러스'](https://www.cashcarplus.com/)** 안드로이드 앱 개발 및 퍼블리싱.(2020.04.01 ~ 2020.07.31) [Kotlin, Android]
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### 🏆 Prize
 
-- 2021년 한양대학교 경영대학 HUBS 창업&커리어센터 주최 The 1st HUBS YOUNG LION COMPETITION 최우수상 (Ourstock 소속)
-- 2021년 학생 창업유망팀 300 경진대회 창업도전형 최종 선정 인증서 (아워스톡 팀 / Ourstock 소속)
+- 2021년 한양대학교 경영대학 HUBS 창업&커리어센터 주최 The 1st HUBS YOUNG LION COMPETITION 최우수상 ((구)Ourstock, 현 Ourtube 소속)
+- 2021년 학생 창업유망팀 300 경진대회 창업도전형 최종 선정 인증서 (아워스톡 팀 / Ourstock 소속, 현 Ourtube)
 - 2019년 제24회 한양대 벤처창업경진대회 창의상 (Indiviual Car 소속)
 - **2018년 용인시 대학연합 창업아이디어 경진대회 최우수상** (Indiviual Car 소속)
 - 2018년 평창 동계올림픽 기념 SW 공모전 장려상 (한양대 HUHS 소속)
@@ -90,11 +90,10 @@ Here are some ideas to get you started:
 - Flutter
 - Java(안드로이드)
 - Kotlin(안드로이드)
-- Flask / Django
-- MySQL
 - Nest.js / TypeORM
-- Swift(iOS)
-- Html5 / JavaScript / CSS
+- MySQL
+- React
+- Flask / Django
 - git
 
 ---
