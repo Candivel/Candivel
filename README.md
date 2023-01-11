@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Candykick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Candivel)](https://github.com/anuraghazra/github-readme-stats)
+[![Candykick's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-mong)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 안드로이드/하이브리드 앱 개발자, 프론트엔드 엔지니어, 주니어 백엔드 개발자
 
