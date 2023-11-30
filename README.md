@@ -22,9 +22,7 @@ Flutter 앱 개발자 우수몽입니다.
 
 백엔드로는 **Nest.js(with TypeORM)** 와 **MySQL**을 주로 사용합니다.
 
-추가로, 현재 Blockchain 관련 졸업작품을 만들고 있습니다.
-
-(⚡ Fun fact: Dart는 별로지만 Flutter는 잘 만들었다고 생각합니다.)
+(⚡ Fun fact: 경력에 따로 적진 않았지만, 은근슬쩍 블록체인을 한 경험이 꽤 있습니다. 졸업작품도 블록체인 쪽이었고, 이전에 NFT 프로젝트 팀에 들어가서 NFT 개발 및 퍼블리싱을 담당했었습니다.)
 
 
 ### 👨‍💻 Career
@@ -34,9 +32,9 @@ Flutter 앱 개발자 우수몽입니다.
   - 유튜브 지분 거래 플랫폼 **['아워튜브'](https://play.google.com/store/apps/details?id=com.ourstock.ourtube_app)** 개발팀장.<br>
     주로 프로젝트 관리 및 앱 개발, 어드민 페이지 개발을 맡고 있고, 상황에 따라 서버 개발도 도와주고 있습니다.<br>
     [앱 : Flutter / 서버 : Nest.js, MySQL, TypeORM / 어드민 : React -> Flutter]
-- 점심시간 매칭 플랫폼 'TimeSeller' 개발팀장.(2020.07.01 ~ 2020.11.30)<br>
+- 점심시간 매칭 플랫폼 'TimeSeller' 개발팀장.(2021.07.01 ~ 2021.11.30)<br>
   프로젝트 관리 및 앱 개발을 맡았습니다. [Flutter]
-- 빅데이터 기반의 모빌리티 광고 플랫폼 **['캐시카플러스'](https://www.cashcarplus.com/)** 안드로이드 앱 개발 및 퍼블리싱.(2020.04.01 ~ 2020.07.31) [Kotlin, Android]
+- 빅데이터 기반의 모빌리티 광고 플랫폼 **['캐시카플러스'](https://www.cashcarplus.com/)** 안드로이드 앱 개발 및 퍼블리싱.(2021.04.01 ~ 2021.07.31) [Kotlin, Android]
 - 안드로이드/Flutter 외주 개발자(2020.01.01 ~ 2020.12.31)
   - 콘텐츠 크리에이터의 공간 플랫폼 ['Billyo의 파트너스 앱'](https://play.google.com/store/apps/details?id=com.billyo.billyo_partners&hl=ko&gl=US) 개발 [Flutter]
 - **스타트업 'Individual Car' CTO 겸 개발자 ( 2016.05.01 ~ 2019.08.01 ).**
