@@ -87,7 +87,7 @@ Flutter 앱 개발자 우수몽입니다.
 
 [개발 관련 자료 정리 & 모음](https://www.notion.so/b927103c6b7f42a4aaf5da88b07cefa3)
 
-[Beyond the Developer](https://candykick.kr)
+[sumong : Velog](https://velog.io/@sumong)
 
 [Studio Candykick : 네이버 블로그](https://blog.naver.com/woo171tm)
 
@@ -95,7 +95,7 @@ Flutter 앱 개발자 우수몽입니다.
 
 맨 위 Notion Page는 보기 쉽게 개발 관련해서 공부한 것들을 핵심만 정리한 것입니다.
 
-그리고 'Beyond the Developer'가 최근에 사용 중인 블로그이고, 맨 아래는 이전에 사용하던 블로그입니다.
+현재는 가운데의 velog를 주로 사용하고 있습니다. 아래 네이버 블로그는 이전에 사용하던 것입니다.
 
 ---
 
