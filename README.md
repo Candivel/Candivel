@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 [![Candykick's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-mong)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@sumong/)](https://velog.io/@sumong)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sumong-app)](www.linkedin.com/in/sumong-app)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mbpsolamsider@gmail.com)](mailto:mbpsolamsider@gmail.com)
+
 ## 안드로이드/하이브리드 앱 개발자, 프론트엔드 엔지니어, 주니어 백엔드 개발자
 
 Flutter 앱 개발자 우수몽입니다.
@@ -29,9 +33,10 @@ Flutter 앱 개발자 우수몽입니다.
 
 ### 👨‍💻 Career
 
-- [이젠아카데미 dx교육센터](https://www.ezenac.co.kr/) 강남본원 튜터 (2024.06.26 ~ )
-- [주식회사 마이스맥스](https://mysmax.kr/) Flutter 앱 개발자(2024.04.24 ~ )
-- **스타트업 ['Wiiee'](https://wiiee.oopy.io/) Flutter 앱 개발자(2023.06.08 ~ 2024.04.19)**
+- **[중고나라](https://web.joongna.com/) Flutter 앱 개발자(2024.11.11 ~ )**
+- [주식회사 마이스맥스](https://mysmax.kr/) Flutter 앱 개발자(2024.04.24 ~ 2024.09.30)
+- [이젠아카데미 dx교육센터](https://www.ezenac.co.kr/) 강남본원 튜터 (2024.06.26 ~ 2024.08.31)
+- 스타트업 ['Wiiee'](https://wiiee.oopy.io/) Flutter 앱 개발자(2023.06.08 ~ 2024.04.19)
 - **스타트업 ['Ourtube'](https://ourtube.co.kr/#/home) 개발팀장 (2021.11.30 ~ 2023.05.26)**, Flutter 앱 개발자 ( 2021.01.01 ~ 2021.11.30 ).
   - 유튜브 지분 거래 플랫폼 **['아워튜브'](https://play.google.com/store/apps/details?id=com.ourstock.ourtube_app)** 개발팀장.<br>
     주로 프로젝트 관리 및 앱 개발, 어드민 페이지 개발을 맡고 있고, 상황에 따라 서버 개발도 도와주고 있습니다.<br>
